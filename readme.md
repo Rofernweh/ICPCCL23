@@ -1,38 +1,29 @@
-## Day 1: Introduction to Competitive Programming and C++ Basics
-This day we were introduced to the bootcamp, we learn how do the things would be made and get to work with C++ from conditionals to vectors.
+# ICPCCL23 Competitive programming bootcamp
 
-### Contest 1: [La punta del iceberg](https://vjudge.net/contest/569596)
+Welcome to the Contest Repository! This repository contains all the contest problems we solved during our intensive 9-day bootcamp. Below, you will find a brief overview of the ICPC competition and how the bootcamp helped us sharpen our algorithmic and C++ programming skills.
 
-### **A:** [Playlist](https://cses.fi/problemset/task/1141).
+## About ICPC (International Collegiate Programming Contest)
 
-### **B:** [Dragon Balls](https://vjudge.net/problem/Kattis-dragonballs#author=0) (With a spanish fork by progcomp_uchile)
-  
-### **C:** [Geometry](https://codeforces.com/problemset/gymProblem/100814/F)
+The International Collegiate Programming Contest (ICPC) is an annual competitive programming competition for university students from around the world. Teams of three members collaborate to solve a set of challenging algorithmic problems within a limited time frame. The contest fosters creativity, teamwork, and problem-solving skills, making it an excellent platform for honing programming abilities.
 
-### **D:** [Golden Coins](https://atcoder.jp/contests/abc160/tasks/abc160_b).
+## Bootcamp Experience
 
-### **F:** [Same Integers](https://atcoder.jp/contests/arc094/tasks/arc094_a).
+The bootcamp was an intensive 9-day program designed to elevate our competitive programming skills and enhance our proficiency in C++. Throughout the bootcamp, we participated in mock ICPC-style contests, allowing us to apply the knowledge and techniques we reviewed on that particular day to solve complex algorithmic problems. Thanks to that we improved our ability to craft efficient and elegant solutions.
 
-### **G:** [Orchestra](https://codeforces.com/problemset/problem/635/A).
+Key objectives of the bootcamp:
 
-### **H:** [Playlist](https://cses.fi/problemset/task/1141).
+- **Algorithmic Problem Solving:** We were exposed to a wide variety of algorithmic problems, ranging from classical to advanced topics, which allowed us to develop a deep understanding of various algorithmic techniques.
 
+- **Teamwork and Collaboration:** The bootcamp emphasized teamwork and collaboration, encouraging us to work in teams to tackle problems efficiently and effectively.
 
-## Resources for each one:
+- **Optimized C++ Coding:** We focused on writing efficient and bug-free C++ code, learning about common used libraries and advanced C++ techniques to optimize our solutions.
 
-### A:
-[Approach by sorting and searching](https://www.youtube.com/watch?v=CkJRXaQw8BA) (Preferred in this contest)
+- **Time Management:** The bootcamp challenged us to manage our time effectively during contests, enabling us to make the most of the time to solve problems fast.
 
-### B:
+- **Problem Analysis and Debugging:** We learned how to analyze problems and devise appropriate strategies to approach them. Additionally, we honed our debugging skills to identify and fix errors in our code swiftly.
 
-### C:
+Most of the problems you will see here were taken of codeforces. 
 
-### D:
+Feel free to explore the individual problem folders in this repository to find the solutions and explanations for each problem.
 
-### E:
-
-### F:
-
-### G:
-
-### H:
+Happy coding and happy learning! 🚀👩‍💻👨‍💻
