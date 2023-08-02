@@ -15,7 +15,7 @@ This day we were introduced to the bootcamp, we learn how do the things would be
 
 ### **G:** [Orchestra](https://codeforces.com/problemset/problem/635/A).
 
-### **H:** [Playlist](https://cses.fi/problemset/task/1141).
+### **H:** [Guess The Array](https://codeforces.com/problemset/problem/727/C).
 
 
 ## Resources for each one:

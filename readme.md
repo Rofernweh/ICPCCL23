@@ -22,8 +22,10 @@ Key objectives of the bootcamp:
 
 - **Problem Analysis and Debugging:** We learned how to analyze problems and devise appropriate strategies to approach them. Additionally, we honed our debugging skills to identify and fix errors in our code swiftly.
 
-Most of the problems you will see here were taken of codeforces. 
+PS: I'm looking for the original source of each problem, also looking for as many resources related to the individual problems as possible, if you have any material or suggestion feel free to let me know. 
 
-Feel free to explore the individual problem folders in this repository to find the solutions and explanations for each problem.
+The solution files were provided by me, if you have any suggestion for a better approach, open an issue or send me a pull request directly, I'm open for any help :).
+
+And finally get comfy, and explore the problem folders in this repository solve them as you progress, and if you get troubled on any, just look the resources to find the solutions and explanations for each one.
 
 Happy coding and happy learning! 🚀👩‍💻👨‍💻
