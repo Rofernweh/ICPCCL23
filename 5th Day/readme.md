@@ -3,27 +3,25 @@ This day we were introduced to the bootcamp, we learn how do the things would be
 
 ### Contest {x}: [name](link)
 
-### **letter:** [name](link).
+### **A:** [name](link).
 
-### **letter:** [name](link).
+### **B:** [name](link).
 
-### **letter:** [name](link).
+### **C:** [name](link).
 
-### **letter:** [name](link).
+### **D:** [name](link).
 
-### **letter:** [name](link).
+### **E:** [name](link).
 
-### **letter:** [name](link).
+### **F:** [name](link).
 
-### **letter:** [name](link).
+### **G:** [name](link).
 
-### **letter:** [name](link).
+### **H:** [name](link).
 
-### **letter:** [name](link).
+### **I:** [name](link).
 
-### **letter:** [name](link).
-
-### **letter:** [name](link).
+### **J:** [name](link).
 
 
 ## Resources for each one:

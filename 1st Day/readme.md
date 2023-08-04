@@ -5,7 +5,7 @@ This day we were introduced to the bootcamp, we learn how do the things would be
 
 ### **A:** [Playlist](https://cses.fi/problemset/task/1141).
 
-### **B:** [Dragon Balls](https://vjudge.net/problem/Kattis-dragonballs#author=0) (With a spanish fork by progcomp_uchile)
+### **B:** [Dragon Balls](https://open.kattis.com/problems/dragonballs)
   
 ### **C:** [Geometry](https://codeforces.com/problemset/gymProblem/100814/F)
 

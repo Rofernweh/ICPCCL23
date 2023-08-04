@@ -1,27 +1,27 @@
-## Day 1: Introduction to Competitive Programming and C++ Basics
-This day we were introduced to the bootcamp, we learn how do the things would be made and get to work with C++ from conditionals to vectors.
+## Day 3: Basic Algorithms
+This day we review basics algorithms. 
 
-### Contest {x}: [name](link)
+### Contest 3: [Demostración por accepted](https://vjudge.net/contest/570004)
 
-### **A:** [name](link).
+### **A:** [Distributing Ballot Boxes](https://www.spoj.com/problems/BALLOT/).
 
-### **B:** [name](link).
+### **B:** [Renting Bikes](https://codeforces.com/problemset/problem/363/D).
 
-### **C:** [name](link).
+### **C:** [Need For Speed](https://open.kattis.com/problems/speed).
 
-### **D:** [name](link).
+### **D:** [They Are Everywhere](https://codeforces.com/problemset/problem/701/C).
 
-### **E:** [name](link).
+### **E:** [As Fast As Possible](https://codeforces.com/problemset/problem/701/D).
 
-### **F:** [name](link).
+### **F:** [Quiz Master](https://codeforces.com/problemset/problem/1777/C).
 
-### **G:** [name](link).
+### **G:** [Wonderful Randomized Sum](https://codeforces.com/problemset/problem/33/C).
 
-### **H:** [name](link).
+### **H:** [Crazy Driver](https://open.kattis.com/problems/driver).
 
-### **I:** [name](link).
+### **I:** [Berland Collider](https://codeforces.com/problemset/problem/24/E).
 
-### **J:** [name](link).
+### **J:** [Anton And Currency You All Know](https://codeforces.com/problemset/problem/508/B).
 
 
 
