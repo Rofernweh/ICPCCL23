@@ -1,5 +1,5 @@
 ## Day 1: Introduction to Competitive Programming and C++ Basics
-This day we were introduced to the bootcamp, we learn how do the things would be made and get to work with C++ from conditionals to vectors.
+This day we were introduced to the bootcamp, we learn how do the things would be made and get to work with C++ from conditionals to vectors and pairs.
 
 ### Contest 1: [La punta del iceberg](https://vjudge.net/contest/569596)
 

@@ -1,7 +1,7 @@
-## Day 1: Introduction to Competitive Programming and C++ Basics
-This day we were introduced to the bootcamp, we learn how do the things would be made and get to work with C++ from conditionals to vectors.
+## Day 8: Graph II
+This day we will continue with graphs, but this time we will see some algorithms that can be applied to them (Kruskal/MST).
 
-### Contest {x}: [name](link)
+### Contest 8: [Eres mi abuelo](link)
 
 ### **letter:** [name](link).
 

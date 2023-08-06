@@ -1,27 +1,27 @@
-## Day 1: Introduction to Competitive Programming and C++ Basics
-This day we were introduced to the bootcamp, we learn how do the things would be made and get to work with C++ from conditionals to vectors.
+## Day 5: Dynamic Programming 
+This day we were introduced to the concept of dynamic programming, which is a technique to solve problems by breaking them down into smaller subproblems and then solving them. This is a very powerful technique that can be used to solve many problems, but it is not always easy to identify when it can be used.
 
-### Contest {x}: [name](link)
+### Contest 5: [Descarguen RAM para que sea más eficiente](https://vjudge.net/contest/570546)
 
-### **A:** [name](link).
+### **A:** [Intersting Drink](https://codeforces.com/problemset/problem/706/B/)
 
-### **B:** [name](link).
+### **B:** [Caesar's Legions](https://codeforces.com/problemset/problem/118/D)
 
-### **C:** [name](link).
+### **C:** [Mixtures](https://www.spoj.com/problems/MIXTURES/)
 
-### **D:** [name](link).
+### **D:** [Flowers](https://codeforces.com/problemset/problem/474/D)
 
-### **E:** [name](link).
+### **E:** [Tenzing and Balls](https://codeforces.com/problemset/problem/1842/C).
 
-### **F:** [name](link).
+### **F:** [Mortal Kombat Tower](https://codeforces.com/problemset/problem/1418/C)
 
-### **G:** [name](link).
+### **G:** [Changing a String](https://codeforces.com/problemset/problem/56/D)
 
-### **H:** [name](link).
+### **H:** [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A)
 
-### **I:** [name](link).
+### **I:** [Long Jumps](https://codeforces.com/problemset/problem/479/D)
 
-### **J:** [name](link).
+### **J:** [Vittorio Plays with LEGO Bricks](https://codeforces.com/problemset/problem/1776/B)
 
 
 ## Resources for each one:

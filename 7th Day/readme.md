@@ -1,29 +1,28 @@
-## Day 1: Introduction to Competitive Programming and C++ Basics
-This day we were introduced to the bootcamp, we learn how do the things would be made and get to work with C++ from conditionals to vectors.
+## Day 7: Dynamic Programming II
+This day we learn about more advanced algorithms for dynamic programming, getting into Kruskal, Prim, Floyd-Warshall, and Bellman-Ford algorithms. We also learn how to solve some problems, and how to approach them using dynamic programming.
 
-### Contest {x}: [name](link)
+### Contest 7: [DP 2 La venganza de DP](https://vjudge.net/contest/571321)
 
-### **letter:** [name](link).
+### **A:** [Cut Ribbon](https://vjudge.net/problem/CodeForces-189A)
 
-### **letter:** [name](link).
+### **B:** [Grid Paths](https://cses.fi/problemset/task/1625)
 
-### **letter:** [name](link).
+### **C:** [Meet in the Middle](https://cses.fi/problemset/task/1628)
 
-### **letter:** [name](link).
+### **D:** [Pekora and Trampoline](https://codeforces.com/problemset/problem/1491/C)
 
-### **letter:** [name](link).
+### **E:** [Barcode](https://codeforces.com/problemset/problem/225/C)
 
-### **letter:** [name](link).
+### **F:** [Pillars](https://codeforces.com/problemset/problem/474/E)
 
-### **letter:** [name](link).
+### **G:** [Fish](https://codeforces.com/problemset/problem/16/E)
 
-### **letter:** [name](link).
+### **H:** [Counting Towers](https://cses.fi/alon/task/2413)
 
-### **letter:** [name](link).
+### **I:** [Mentors](https://codeforces.com/gym/103081/problem/F)
 
-### **letter:** [name](link).
+### **J:** [WOW Factor](https://codeforces.com/problemset/problem/1178/B)
 
-### **letter:** [name](link).
 
 
 ## Resources for each one:
