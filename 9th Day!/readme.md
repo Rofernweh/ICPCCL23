@@ -1,29 +1,29 @@
-## Day 1: Introduction to Competitive Programming and C++ Basics
-This day we were introduced to the bootcamp, we learn how do the things would be made and get to work with C++ from conditionals to vectors.
+## Day 9: Advanced Class.
+I genuinely don't know what we saw this class.
 
-### Contest {x}: [name](link)
+### Contest 9: [El prefijo del sufijo que es sufijo del prefijo](https://vjudge.net/contest/571689)
 
-### **letter:** [name](link).
+### **A:** [Who Says a Pun](https://atcoder.jp/contests/abc141/tasks/abc141_e)
 
-### **letter:** [name](link).
+### **B:** [Death Stars (Medium)](https://codeforces.com/problemset/problem/958/A2)
 
-### **letter:** [name](link).
+### **C:** [String Tale](https://acm.timus.ru/problem.aspx?space=1&num=1423)
 
-### **letter:** [name](link).
+### **D:** [Queries for Number of Palindromes](https://codeforces.com/problemset/problem/245/H)
 
-### **letter:** [name](link).
+### **E:** [Bear and String Distance](link)
 
-### **letter:** [name](link).
+### **letter:** [name](link)
 
-### **letter:** [name](link).
+### **letter:** [name](link)
 
-### **letter:** [name](link).
+### **letter:** [name](link)
 
-### **letter:** [name](link).
+### **letter:** [name](link)
 
-### **letter:** [name](link).
+### **letter:** [name](link)
 
-### **letter:** [name](link).
+### **letter:** [name](link)
 
 
 ## Resources for each one:
