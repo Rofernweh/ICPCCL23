@@ -22,8 +22,9 @@ This day we were introduced to the bootcamp, we learn how do the things would be
 
 ### A:
 [Approach by sorting and searching](https://www.youtube.com/watch?v=CkJRXaQw8BA) (Preferred in this contest)
+https://www.youtube.com/watch?v=D70lafXKnBU&list=PLTIakIxRr2QupvMN7M7of-IHGiEayHVjD&index=13
 
-### B:
+### B: 
 
 ### C:
 
